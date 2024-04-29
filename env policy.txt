@@ -1,0 +1,5 @@
+https://www.cdmon.com/es/blog/la-ejecucion-de-scripts-esta-deshabilitada-en-este-sistema-te-contamos-como-actuar
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser ​
+
+luego -> S
